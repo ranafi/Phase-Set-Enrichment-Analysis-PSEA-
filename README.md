@@ -81,6 +81,7 @@ Depending on your problem, different strategies may be more effective or appropr
 
 ![](./figD.png)
 
-## For more information about CYCLOPS, please see the files in the directory of ‘docs’ in this repository and read the paper published on [PNAS](http://www.pnas.org/content/early/2017/04/19/1619320114.full). 
+## More information about CYCLOPS
 
+Please see the files in the directory of ‘docs’ in this repository and read the paper published on [PNAS](http://www.pnas.org/content/early/2017/04/19/1619320114.full). 
 
